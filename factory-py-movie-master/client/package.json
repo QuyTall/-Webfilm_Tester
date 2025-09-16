@@ -9,6 +9,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.8.4",
+    "cors": "^2.8.5",
     "next": "^15.2.4",
     "next-redux-wrapper": "^8.1.0",
     "nprogress": "^0.2.0",
